@@ -8,7 +8,6 @@ import json
 import urllib2
 
 #first change
-
 def getPlaylistData():
     videojsons = os.listdir('playlists');
     #print videojsons
