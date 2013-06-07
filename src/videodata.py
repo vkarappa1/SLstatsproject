@@ -16,6 +16,7 @@ durationdata = defaultdict(int)
 def parseVideoData():
     videojsons = os.listdir('videos');
     durationcount = 0
+    viddurfile = open('data_analysis\video_duartions.txt','w')
     for vid in videojsons:
         f = open('videos/' + vid);
         for line in f:
@@ -24,9 +25,11 @@ def parseVideoData():
                 entries =  data['feed']['entry']
                 for entry in entries:
                     if 'yt$duration' in entry['media$group']:
-                        print entry['media$group']['yt$duration']['seconds']
-                        durationcount = durationcount + 1
-                
+                        viddurfile.write(entry['media$group']['yt$duration']['seconds'])
+                        viddurfile.write('\n')
+                        
+    viddurfile.close()    
+                        
     
     
                     
