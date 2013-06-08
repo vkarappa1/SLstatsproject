@@ -1,1 +1,3406 @@
-{"feed": {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}], "updated": {"$t": "2013-06-07T03:11:27.966Z"}, "xmlns": "http://www.w3.org/2005/Atom", "openSearch$startIndex": {"$t": 1}, "entry": [{"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "updated": {"$t": "2013-05-28T02:48:20.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/hPn0CnBZW1Y/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Greek Festival", "type": "text"}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=hPn0CnBZW1Y&feature=youtube_gdata_player"}], "media$category": [{"$t": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "media$title": {"$t": "Greek Festival", "type": "plain"}, "yt$duration": {"seconds": "109"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/hPn0CnBZW1Y?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 109, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v2.cache5.c.youtube.com/CigLENy73wIaHwlWW1lwCvT5hBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 109, "expression": "full"}, {"medium": "video", "url": "rtsp://v2.cache5.c.youtube.com/CigLENy73wIaHwlWW1lwCvT5hBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 109, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/hPn0CnBZW1Y/0.jpg", "width": 480, "time": "00:00:54.500", "height": 360}, {"url": "https://i.ytimg.com/vi/hPn0CnBZW1Y/1.jpg", "width": 120, "time": "00:00:27.250", "height": 90}, {"url": "https://i.ytimg.com/vi/hPn0CnBZW1Y/2.jpg", "width": 120, "time": "00:00:54.500", "height": 90}, {"url": "https://i.ytimg.com/vi/hPn0CnBZW1Y/3.jpg", "width": 120, "time": "00:01:21.750", "height": 90}], "media$keywords": {}, "media$description": {"$t": "Evelina loves to attend any type of festivals. One of the festivals she enjoyed going to Greek Festival in Northridge, CA.", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "120", "favoriteCount": "0"}, "content": {"$t": "Evelina loves to attend any type of festivals. One of the festivals she enjoyed going to Greek Festival in Northridge, CA.", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=hPn0CnBZW1Y&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/hPn0CnBZW1Y/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/hPn0CnBZW1Y/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=hPn0CnBZW1Y", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/hPn0CnBZW1Y", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2013-05-28T02:48:20.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/hPn0CnBZW1Y"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Comedy", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Comedy"}], "updated": {"$t": "2013-05-24T04:12:23.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/esb1Dr6aVP8/comments", "countHint": 2, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Got Milk?", "type": "text"}, "gd$rating": {"max": 5, "average": 4.2, "numRaters": 5, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=esb1Dr6aVP8&feature=youtube_gdata_player"}], "media$category": [{"$t": "Comedy", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Comedy"}], "media$title": {"$t": "Got Milk?", "type": "plain"}, "yt$duration": {"seconds": "58"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/esb1Dr6aVP8?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 58, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v2.cache5.c.youtube.com/CigLENy73wIaHwn_VJq-DvXGehMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 58, "expression": "full"}, {"medium": "video", "url": "rtsp://v2.cache5.c.youtube.com/CigLENy73wIaHwn_VJq-DvXGehMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 58, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/esb1Dr6aVP8/0.jpg", "width": 480, "time": "00:00:29", "height": 360}, {"url": "https://i.ytimg.com/vi/esb1Dr6aVP8/1.jpg", "width": 120, "time": "00:00:14.500", "height": 90}, {"url": "https://i.ytimg.com/vi/esb1Dr6aVP8/2.jpg", "width": 120, "time": "00:00:29", "height": 90}, {"url": "https://i.ytimg.com/vi/esb1Dr6aVP8/3.jpg", "width": 120, "time": "00:00:43.500", "height": 90}], "media$keywords": {}, "media$description": {"$t": "Evelina Gaina encountered the funny situation at Sacred Monkey Forest with monkey named \"Curious George\" in Ubud, Indonesia (Bali).", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "520", "favoriteCount": "0"}, "content": {"$t": "Evelina Gaina encountered the funny situation at Sacred Monkey Forest with monkey named \"Curious George\" in Ubud, Indonesia (Bali).", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=esb1Dr6aVP8&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/esb1Dr6aVP8/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/esb1Dr6aVP8/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=esb1Dr6aVP8", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/esb1Dr6aVP8", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2013-05-22T21:06:07.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/esb1Dr6aVP8"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "updated": {"$t": "2013-05-20T11:33:03.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/a6lnlQ_msPk/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Literacy Through International Sign", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 2, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=a6lnlQ_msPk&feature=youtube_gdata_player"}], "media$category": [{"$t": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "media$title": {"$t": "Literacy Through International Sign", "type": "plain"}, "yt$duration": {"seconds": "173"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/a6lnlQ_msPk?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 173, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v3.cache5.c.youtube.com/CigLENy73wIaHwn5sOYPlWepaxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 173, "expression": "full"}, {"medium": "video", "url": "rtsp://v3.cache5.c.youtube.com/CigLENy73wIaHwn5sOYPlWepaxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 173, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/a6lnlQ_msPk/0.jpg", "width": 480, "time": "00:01:26.500", "height": 360}, {"url": "https://i.ytimg.com/vi/a6lnlQ_msPk/1.jpg", "width": 120, "time": "00:00:43.250", "height": 90}, {"url": "https://i.ytimg.com/vi/a6lnlQ_msPk/2.jpg", "width": 120, "time": "00:01:26.500", "height": 90}, {"url": "https://i.ytimg.com/vi/a6lnlQ_msPk/3.jpg", "width": 120, "time": "00:02:09.750", "height": 90}], "media$keywords": {}, "media$description": {"$t": "Honor our mom for many different reasons. Reflecting on my literacy experience with my mum not through ASL or English but International Sign. Grateful for our mom on Mother's Day and Any Day!", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "121", "favoriteCount": "0"}, "content": {"$t": "Honor our mom for many different reasons. Reflecting on my literacy experience with my mum not through ASL or English but International Sign. Grateful for our mom on Mother's Day and Any Day!", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=a6lnlQ_msPk&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/a6lnlQ_msPk/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/a6lnlQ_msPk/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=a6lnlQ_msPk", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/a6lnlQ_msPk", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2013-05-20T00:52:04.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/a6lnlQ_msPk"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Comedy", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Comedy"}], "updated": {"$t": "2013-05-20T11:36:45.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/3IGJV9E_DPo/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Deaf vs Hearing Rafting Race", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 2, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=3IGJV9E_DPo&feature=youtube_gdata_player"}], "media$category": [{"$t": "Comedy", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Comedy"}], "media$title": {"$t": "Deaf vs Hearing Rafting Race", "type": "plain"}, "yt$duration": {"seconds": "112"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/3IGJV9E_DPo?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 112, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v1.cache8.c.youtube.com/CigLENy73wIaHwn6DD_RV4mB3BMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 112, "expression": "full"}, {"medium": "video", "url": "rtsp://v1.cache8.c.youtube.com/CigLENy73wIaHwn6DD_RV4mB3BMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 112, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/3IGJV9E_DPo/0.jpg", "width": 480, "time": "00:00:56", "height": 360}, {"url": "https://i.ytimg.com/vi/3IGJV9E_DPo/1.jpg", "width": 120, "time": "00:00:28", "height": 90}, {"url": "https://i.ytimg.com/vi/3IGJV9E_DPo/2.jpg", "width": 120, "time": "00:00:56", "height": 90}, {"url": "https://i.ytimg.com/vi/3IGJV9E_DPo/3.jpg", "width": 120, "time": "00:01:24", "height": 90}], "media$keywords": {}, "media$description": {"$t": "One of Evelina Gaina's adventure in Bali, Indonesia. American Sign Language was used while rafting with a beautiful scenario in Bali.", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "212", "favoriteCount": "0"}, "content": {"$t": "One of Evelina Gaina's adventure in Bali, Indonesia. American Sign Language was used while rafting with a beautiful scenario in Bali.", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=3IGJV9E_DPo&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/3IGJV9E_DPo/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/3IGJV9E_DPo/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=3IGJV9E_DPo", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/3IGJV9E_DPo", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2013-05-18T08:09:37.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/3IGJV9E_DPo"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Comedy", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Comedy"}], "updated": {"$t": "2013-05-23T17:59:57.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/bXCH518UedM/comments", "countHint": 2, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Beware of Evelina!", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 3, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=bXCH518UedM&feature=youtube_gdata_player"}], "media$category": [{"$t": "Comedy", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Comedy"}], "media$title": {"$t": "Beware of Evelina!", "type": "plain"}, "yt$duration": {"seconds": "24"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/bXCH518UedM?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 24, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v3.cache1.c.youtube.com/CigLENy73wIaHwnTeRRf54dwbRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 24, "expression": "full"}, {"medium": "video", "url": "rtsp://v3.cache1.c.youtube.com/CigLENy73wIaHwnTeRRf54dwbRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 24, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/bXCH518UedM/0.jpg", "width": 480, "time": "00:00:12", "height": 360}, {"url": "https://i.ytimg.com/vi/bXCH518UedM/1.jpg", "width": 120, "time": "00:00:06", "height": 90}, {"url": "https://i.ytimg.com/vi/bXCH518UedM/2.jpg", "width": 120, "time": "00:00:12", "height": 90}, {"url": "https://i.ytimg.com/vi/bXCH518UedM/3.jpg", "width": 120, "time": "00:00:18", "height": 90}], "media$keywords": {}, "media$description": {"$t": "Evelina Gaina, the karate lady in Death Valley, CA.", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "626", "favoriteCount": "0"}, "content": {"$t": "Evelina Gaina, the karate lady in Death Valley, CA.", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=bXCH518UedM&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/bXCH518UedM/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/bXCH518UedM/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=bXCH518UedM", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/bXCH518UedM", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2013-05-14T03:26:05.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/bXCH518UedM"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Comedy", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Comedy"}], "updated": {"$t": "2013-05-09T18:14:28.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/C6aellBpMI8/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Swinging after dinner part 2", "type": "text"}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=C6aellBpMI8&feature=youtube_gdata_player"}], "media$category": [{"$t": "Comedy", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Comedy"}], "media$title": {"$t": "Swinging after dinner part 2", "type": "plain"}, "yt$duration": {"seconds": "103"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/C6aellBpMI8?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 103, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v7.cache6.c.youtube.com/CigLENy73wIaHwmPMGlQlp6mCxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 103, "expression": "full"}, {"medium": "video", "url": "rtsp://v7.cache6.c.youtube.com/CigLENy73wIaHwmPMGlQlp6mCxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 103, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/C6aellBpMI8/0.jpg", "width": 480, "time": "00:00:51.500", "height": 360}, {"url": "https://i.ytimg.com/vi/C6aellBpMI8/1.jpg", "width": 120, "time": "00:00:25.750", "height": 90}, {"url": "https://i.ytimg.com/vi/C6aellBpMI8/2.jpg", "width": 120, "time": "00:00:51.500", "height": 90}, {"url": "https://i.ytimg.com/vi/C6aellBpMI8/3.jpg", "width": 120, "time": "00:01:17.250", "height": 90}], "media$keywords": {}, "media$description": {"$t": "Continue from part 1 with loco daughter and mother chatting mixed in American Sign Language and Romania Sign Language.", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "21", "favoriteCount": "0"}, "content": {"$t": "Continue from part 1 with loco daughter and mother chatting mixed in American Sign Language and Romania Sign Language.", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=C6aellBpMI8&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/C6aellBpMI8/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/C6aellBpMI8/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=C6aellBpMI8", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/C6aellBpMI8", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2013-05-09T18:14:28.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/C6aellBpMI8"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Comedy", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Comedy"}], "updated": {"$t": "2013-05-09T18:11:59.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/hTO43n2j-8I/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Swinging after dinner part 1", "type": "text"}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=hTO43n2j-8I&feature=youtube_gdata_player"}], "media$category": [{"$t": "Comedy", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Comedy"}], "media$title": {"$t": "Swinging after dinner part 1", "type": "plain"}, "yt$duration": {"seconds": "61"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/hTO43n2j-8I?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 61, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v7.cache2.c.youtube.com/CigLENy73wIaHwnC-6N93rgzhRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 61, "expression": "full"}, {"medium": "video", "url": "rtsp://v7.cache2.c.youtube.com/CigLENy73wIaHwnC-6N93rgzhRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 61, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/hTO43n2j-8I/0.jpg", "width": 480, "time": "00:00:30.500", "height": 360}, {"url": "https://i.ytimg.com/vi/hTO43n2j-8I/1.jpg", "width": 120, "time": "00:00:15.250", "height": 90}, {"url": "https://i.ytimg.com/vi/hTO43n2j-8I/2.jpg", "width": 120, "time": "00:00:30.500", "height": 90}, {"url": "https://i.ytimg.com/vi/hTO43n2j-8I/3.jpg", "width": 120, "time": "00:00:45.750", "height": 90}], "media$keywords": {}, "media$description": {"$t": "Loco daughter and mother chatting mixed in American Sign Language and Romania Sign Language.", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "21", "favoriteCount": "0"}, "content": {"$t": "Loco daughter and mother chatting mixed in American Sign Language and Romania Sign Language.", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=hTO43n2j-8I&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/hTO43n2j-8I/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/hTO43n2j-8I/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=hTO43n2j-8I", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/hTO43n2j-8I", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2013-05-09T18:11:59.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/hTO43n2j-8I"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "updated": {"$t": "2013-06-03T09:22:14.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/mojDhpiiNwg/comments", "countHint": 1, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "International Sign Language", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 11, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=mojDhpiiNwg&feature=youtube_gdata_player"}], "media$category": [{"$t": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "media$title": {"$t": "International Sign Language", "type": "plain"}, "yt$duration": {"seconds": "185"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/mojDhpiiNwg?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 185, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v8.cache1.c.youtube.com/CigLENy73wIaHwkIN6KYhsOImhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 185, "expression": "full"}, {"medium": "video", "url": "rtsp://v8.cache1.c.youtube.com/CigLENy73wIaHwkIN6KYhsOImhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 185, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/mojDhpiiNwg/0.jpg", "width": 480, "time": "00:01:32.500", "height": 360}, {"url": "https://i.ytimg.com/vi/mojDhpiiNwg/1.jpg", "width": 120, "time": "00:00:46.250", "height": 90}, {"url": "https://i.ytimg.com/vi/mojDhpiiNwg/2.jpg", "width": 120, "time": "00:01:32.500", "height": 90}, {"url": "https://i.ytimg.com/vi/mojDhpiiNwg/3.jpg", "width": 120, "time": "00:02:18.750", "height": 90}], "media$keywords": {}, "media$description": {"$t": "Evelina Gaina shares her personal experience in International Sign Language.", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "581", "favoriteCount": "0"}, "content": {"$t": "Evelina Gaina shares her personal experience in International Sign Language.", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=mojDhpiiNwg&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/mojDhpiiNwg/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/mojDhpiiNwg/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=mojDhpiiNwg", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/mojDhpiiNwg", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2013-05-04T04:07:35.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/mojDhpiiNwg"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Travel", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Travel & Events"}], "updated": {"$t": "2013-03-15T06:07:09.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/SlM8bo-g1qg/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Video: What A Girl Gonna Do?", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 2, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=SlM8bo-g1qg&feature=youtube_gdata_player"}], "media$category": [{"$t": "Travel", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Travel & Events"}], "media$title": {"$t": "Video: What A Girl Gonna Do?", "type": "plain"}, "yt$duration": {"seconds": "66"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/SlM8bo-g1qg?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 66, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v2.cache4.c.youtube.com/CigLENy73wIaHwmo1qCPbjxTShMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 66, "expression": "full"}, {"medium": "video", "url": "rtsp://v2.cache4.c.youtube.com/CigLENy73wIaHwmo1qCPbjxTShMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 66, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/SlM8bo-g1qg/0.jpg", "width": 480, "time": "00:00:33", "height": 360}, {"url": "https://i.ytimg.com/vi/SlM8bo-g1qg/1.jpg", "width": 120, "time": "00:00:16.500", "height": 90}, {"url": "https://i.ytimg.com/vi/SlM8bo-g1qg/2.jpg", "width": 120, "time": "00:00:33", "height": 90}, {"url": "https://i.ytimg.com/vi/SlM8bo-g1qg/3.jpg", "width": 120, "time": "00:00:49.500", "height": 90}], "media$keywords": {}, "media$description": {"$t": "Evelina Gaina will be traveling to Reims in France to perform \"No Name Yet!\" Show for \nClin d' Oeil 6th Festival 2013!", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "268", "favoriteCount": "0"}, "content": {"$t": "Evelina Gaina will be traveling to Reims in France to perform \"No Name Yet!\" Show for \nClin d' Oeil 6th Festival 2013!", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=SlM8bo-g1qg&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/SlM8bo-g1qg/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/SlM8bo-g1qg/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=SlM8bo-g1qg", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/SlM8bo-g1qg", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2013-03-15T03:41:59.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/SlM8bo-g1qg"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "updated": {"$t": "2013-05-22T06:23:35.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/1WsA-ob5vzA/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "ASL - Peace & Love", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 9, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=1WsA-ob5vzA&feature=youtube_gdata_player"}], "media$category": [{"$t": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "media$title": {"$t": "ASL - Peace & Love", "type": "plain"}, "yt$duration": {"seconds": "121"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/1WsA-ob5vzA?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 121, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v5.cache3.c.youtube.com/CigLENy73wIaHwkwv_mG-gBr1RMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 121, "expression": "full"}, {"medium": "video", "url": "rtsp://v5.cache3.c.youtube.com/CigLENy73wIaHwkwv_mG-gBr1RMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 121, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/1WsA-ob5vzA/0.jpg", "width": 480, "time": "00:01:00.500", "height": 360}, {"url": "https://i.ytimg.com/vi/1WsA-ob5vzA/1.jpg", "width": 120, "time": "00:00:30.250", "height": 90}, {"url": "https://i.ytimg.com/vi/1WsA-ob5vzA/2.jpg", "width": 120, "time": "00:01:00.500", "height": 90}, {"url": "https://i.ytimg.com/vi/1WsA-ob5vzA/3.jpg", "width": 120, "time": "00:01:30.750", "height": 90}], "media$keywords": {}, "media$description": {"$t": "", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "521", "favoriteCount": "0"}, "content": {"$t": "", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=1WsA-ob5vzA&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/1WsA-ob5vzA/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/1WsA-ob5vzA/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=1WsA-ob5vzA", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/1WsA-ob5vzA", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2012-11-17T00:33:19.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/1WsA-ob5vzA"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "updated": {"$t": "2013-02-21T19:45:36.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/IvcypcW04fc/comments", "countHint": 2, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "ASL: Why Angry Bird?", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 3, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=IvcypcW04fc&feature=youtube_gdata_player"}], "media$category": [{"$t": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "media$title": {"$t": "ASL: Why Angry Bird?", "type": "plain"}, "yt$duration": {"seconds": "105"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/IvcypcW04fc?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 105, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v1.cache7.c.youtube.com/CigLENy73wIaHwn34bTFpTL3IhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 105, "expression": "full"}, {"medium": "video", "url": "rtsp://v1.cache7.c.youtube.com/CigLENy73wIaHwn34bTFpTL3IhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 105, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/IvcypcW04fc/0.jpg", "width": 480, "time": "00:00:52.500", "height": 360}, {"url": "https://i.ytimg.com/vi/IvcypcW04fc/1.jpg", "width": 120, "time": "00:00:26.250", "height": 90}, {"url": "https://i.ytimg.com/vi/IvcypcW04fc/2.jpg", "width": 120, "time": "00:00:52.500", "height": 90}, {"url": "https://i.ytimg.com/vi/IvcypcW04fc/3.jpg", "width": 120, "time": "00:01:18.750", "height": 90}], "media$keywords": {}, "media$description": {"$t": "", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "226", "favoriteCount": "0"}, "content": {"$t": "", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=IvcypcW04fc&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/IvcypcW04fc/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/IvcypcW04fc/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=IvcypcW04fc", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/IvcypcW04fc", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2012-07-07T03:25:49.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/IvcypcW04fc"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "updated": {"$t": "2013-05-08T21:23:15.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/ioU-pPpTREg/comments", "countHint": 4, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "EGE Red Carpet \"Hard Man\" by ASL Films", "type": "text"}, "gd$rating": {"max": 5, "average": 4.0, "numRaters": 8, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=ioU-pPpTREg&feature=youtube_gdata_player"}], "media$category": [{"$t": "Entertainment", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Entertainment"}], "media$title": {"$t": "EGE Red Carpet \"Hard Man\" by ASL Films", "type": "plain"}, "yt$duration": {"seconds": "132"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/ioU-pPpTREg?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 132, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v4.cache5.c.youtube.com/CigLENy73wIaHwlIRFP6pD6FihMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 132, "expression": "full"}, {"medium": "video", "url": "rtsp://v4.cache5.c.youtube.com/CigLENy73wIaHwlIRFP6pD6FihMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 132, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/ioU-pPpTREg/0.jpg", "width": 480, "time": "00:01:06", "height": 360}, {"url": "https://i.ytimg.com/vi/ioU-pPpTREg/1.jpg", "width": 120, "time": "00:00:33", "height": 90}, {"url": "https://i.ytimg.com/vi/ioU-pPpTREg/2.jpg", "width": 120, "time": "00:01:06", "height": 90}, {"url": "https://i.ytimg.com/vi/ioU-pPpTREg/3.jpg", "width": 120, "time": "00:01:39", "height": 90}], "media$keywords": {}, "media$description": {"$t": "EG Entertainment (EGE) invites you to our 3rd annual Red Carpet event! \n\nThis will be ASL Films' 7th full-length film release, and the Red Carpet event will bring the Deaf community together again for another glamorous Hollywood experience. ASL Films will premiere the film \"Hard Man\" directed by Mark Wood and acted by our well-known entertainer Andrew Vasnick, who also acted in \"Gerald.\" The Red Carpet event will bring the Deaf community together again for another glamorous Hollywood experience. \n\nBuy Ticket via PayPal: http://www.evelinagaina.com. \nProduction Company: http://www.aslfilms.com.\nCollaboration: http://www.ideafnews.com & http://www.gladinc.org.\n\nPlease take a moment to visit our new Facebook Page and Click Like: http://www.facebook.com/EvelinaGainaEntertainment", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "6431", "favoriteCount": "0"}, "content": {"$t": "EG Entertainment (EGE) invites you to our 3rd annual Red Carpet event! \n\nThis will be ASL Films' 7th full-length film release, and the Red Carpet event will bring the Deaf community together again for another glamorous Hollywood experience. ASL Films will premiere the film \"Hard Man\" directed by Mark Wood and acted by our well-known entertainer Andrew Vasnick, who also acted in \"Gerald.\" The Red Carpet event will bring the Deaf community together again for another glamorous Hollywood experience. \n\nBuy Ticket via PayPal: http://www.evelinagaina.com. \nProduction Company: http://www.aslfilms.com.\nCollaboration: http://www.ideafnews.com & http://www.gladinc.org.\n\nPlease take a moment to visit our new Facebook Page and Click Like: http://www.facebook.com/EvelinaGainaEntertainment", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=ioU-pPpTREg&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/ioU-pPpTREg/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/ioU-pPpTREg/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=ioU-pPpTREg", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/ioU-pPpTREg", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2012-06-05T05:08:59.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/ioU-pPpTREg"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "updated": {"$t": "2013-05-08T21:23:52.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/zOLzMgyflBY/comments", "countHint": 4, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "ASL & RSL", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 9, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=zOLzMgyflBY&feature=youtube_gdata_player"}], "media$category": [{"$t": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "media$title": {"$t": "ASL & RSL", "type": "plain"}, "yt$duration": {"seconds": "184"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/zOLzMgyflBY?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 184, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v3.cache6.c.youtube.com/CigLENy73wIaHwkWlJ8MMvPizBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 184, "expression": "full"}, {"medium": "video", "url": "rtsp://v3.cache6.c.youtube.com/CigLENy73wIaHwkWlJ8MMvPizBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 184, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/zOLzMgyflBY/0.jpg", "width": 480, "time": "00:01:32", "height": 360}, {"url": "https://i.ytimg.com/vi/zOLzMgyflBY/1.jpg", "width": 120, "time": "00:00:46", "height": 90}, {"url": "https://i.ytimg.com/vi/zOLzMgyflBY/2.jpg", "width": 120, "time": "00:01:32", "height": 90}, {"url": "https://i.ytimg.com/vi/zOLzMgyflBY/3.jpg", "width": 120, "time": "00:02:18", "height": 90}], "media$keywords": {}, "media$description": {"$t": "", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "766", "favoriteCount": "0"}, "content": {"$t": "", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=zOLzMgyflBY&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/zOLzMgyflBY/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/zOLzMgyflBY/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=zOLzMgyflBY", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/zOLzMgyflBY", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2011-12-11T01:21:40.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/zOLzMgyflBY"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Travel", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Travel & Events"}], "updated": {"$t": "2011-09-22T14:48:13.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/yBJ5qsrRMU8/comments", "countHint": 1, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "VERC VLOG", "type": "text"}, "app$control": {"app$draft": {"$t": "yes"}}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=yBJ5qsrRMU8&feature=youtube_gdata_player"}], "media$category": [{"$t": "Travel", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Travel & Events"}], "media$title": {"$t": "VERC VLOG", "type": "plain"}, "yt$duration": {"seconds": "212"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/yBJ5qsrRMU8?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 212, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v5.cache1.c.youtube.com/CigLENy73wIaHwlPMdHKqnkSyBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 212, "expression": "full"}, {"medium": "video", "url": "rtsp://v5.cache1.c.youtube.com/CigLENy73wIaHwlPMdHKqnkSyBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 212, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/yBJ5qsrRMU8/0.jpg", "width": 480, "time": "00:01:46", "height": 360}, {"url": "https://i.ytimg.com/vi/yBJ5qsrRMU8/1.jpg", "width": 120, "time": "00:00:53", "height": 90}, {"url": "https://i.ytimg.com/vi/yBJ5qsrRMU8/2.jpg", "width": 120, "time": "00:01:46", "height": 90}, {"url": "https://i.ytimg.com/vi/yBJ5qsrRMU8/3.jpg", "width": 120, "time": "00:02:39", "height": 90}], "media$keywords": {}, "media$description": {"$t": "", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "290", "favoriteCount": "0"}, "content": {"$t": "", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 2, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "link": [{"href": "https://www.youtube.com/watch?v=yBJ5qsrRMU8&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/yBJ5qsrRMU8/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/yBJ5qsrRMU8/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=yBJ5qsrRMU8", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/yBJ5qsrRMU8", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2011-08-02T18:56:38.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/yBJ5qsrRMU8"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Travel", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Travel & Events"}], "updated": {"$t": "2013-05-08T21:22:54.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/IaYrjzlVMcE/comments", "countHint": 1, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "No Name Yet promo", "type": "text"}, "app$control": {"app$draft": {"$t": "yes"}}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=IaYrjzlVMcE&feature=youtube_gdata_player"}], "media$category": [{"$t": "Travel", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Travel & Events"}], "media$title": {"$t": "No Name Yet promo", "type": "plain"}, "yt$duration": {"seconds": "37"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/IaYrjzlVMcE?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 37, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v6.cache7.c.youtube.com/CigLENy73wIaHwnBMVU5jyumIRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 37, "expression": "full"}, {"medium": "video", "url": "rtsp://v6.cache7.c.youtube.com/CigLENy73wIaHwnBMVU5jyumIRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 37, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/IaYrjzlVMcE/0.jpg", "width": 480, "time": "00:00:18.500", "height": 360}, {"url": "https://i.ytimg.com/vi/IaYrjzlVMcE/1.jpg", "width": 120, "time": "00:00:09.250", "height": 90}, {"url": "https://i.ytimg.com/vi/IaYrjzlVMcE/2.jpg", "width": 120, "time": "00:00:18.500", "height": 90}, {"url": "https://i.ytimg.com/vi/IaYrjzlVMcE/3.jpg", "width": 120, "time": "00:00:27.750", "height": 90}], "media$keywords": {}, "media$description": {"$t": "", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "2261", "favoriteCount": "0"}, "content": {"$t": "", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 4, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "link": [{"href": "https://www.youtube.com/watch?v=IaYrjzlVMcE&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/IaYrjzlVMcE/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/IaYrjzlVMcE/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=IaYrjzlVMcE", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/IaYrjzlVMcE", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2011-06-10T21:31:26.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/IaYrjzlVMcE"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Travel", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Travel & Events"}], "updated": {"$t": "2013-05-08T21:25:14.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/INUwUIQAq9E/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "6 Days Left Until the Red & White Event!", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 1, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=INUwUIQAq9E&feature=youtube_gdata_player"}], "media$category": [{"$t": "Travel", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Travel & Events"}], "media$title": {"$t": "6 Days Left Until the Red & White Event!", "type": "plain"}, "yt$duration": {"seconds": "94"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/INUwUIQAq9E?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 94, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v4.cache1.c.youtube.com/CigLENy73wIaHwnRqwCEUDDVIBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 94, "expression": "full"}, {"medium": "video", "url": "rtsp://v4.cache1.c.youtube.com/CigLENy73wIaHwnRqwCEUDDVIBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 94, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/INUwUIQAq9E/0.jpg", "width": 480, "time": "00:00:47", "height": 360}, {"url": "https://i.ytimg.com/vi/INUwUIQAq9E/1.jpg", "width": 120, "time": "00:00:23.500", "height": 90}, {"url": "https://i.ytimg.com/vi/INUwUIQAq9E/2.jpg", "width": 120, "time": "00:00:47", "height": 90}, {"url": "https://i.ytimg.com/vi/INUwUIQAq9E/3.jpg", "width": 120, "time": "00:01:10.500", "height": 90}], "media$keywords": {}, "media$description": {"$t": "The tickets are running out. 6 days left until the Red & White Event and buy your ticket to RSVP. Ticket is $35, it includes the homemade international foods, drinks, socialization and photo auction. Check out the website at www.wix/com/2maisha/evelinagaina. Email me if you have any questions!\n\nCheers!", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "146", "favoriteCount": "0"}, "content": {"$t": "The tickets are running out. 6 days left until the Red & White Event and buy your ticket to RSVP. Ticket is $35, it includes the homemade international foods, drinks, socialization and photo auction. Check out the website at www.wix/com/2maisha/evelinagaina. Email me if you have any questions!\n\nCheers!", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=INUwUIQAq9E&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/INUwUIQAq9E/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/INUwUIQAq9E/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=INUwUIQAq9E", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/INUwUIQAq9E", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2010-02-22T03:06:41.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/INUwUIQAq9E"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "Travel", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Travel & Events"}], "updated": {"$t": "2013-05-08T21:25:39.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/MoKSSrtF-7E/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Red & White Vlog", "type": "text"}, "gd$rating": {"max": 5, "average": 5.0, "numRaters": 1, "rel": "http://schemas.google.com/g/2005#overall", "min": 1}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=MoKSSrtF-7E&feature=youtube_gdata_player"}], "media$category": [{"$t": "Travel", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "Travel & Events"}], "media$title": {"$t": "Red & White Vlog", "type": "plain"}, "yt$duration": {"seconds": "124"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/MoKSSrtF-7E?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 124, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v7.cache4.c.youtube.com/CigLENy73wIaHwmx-0W7SpKCMhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 124, "expression": "full"}, {"medium": "video", "url": "rtsp://v7.cache4.c.youtube.com/CigLENy73wIaHwmx-0W7SpKCMhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 124, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/MoKSSrtF-7E/0.jpg", "width": 480, "time": "00:01:02", "height": 360}, {"url": "https://i.ytimg.com/vi/MoKSSrtF-7E/1.jpg", "width": 120, "time": "00:00:31", "height": 90}, {"url": "https://i.ytimg.com/vi/MoKSSrtF-7E/2.jpg", "width": 120, "time": "00:01:02", "height": 90}, {"url": "https://i.ytimg.com/vi/MoKSSrtF-7E/3.jpg", "width": 120, "time": "00:01:33", "height": 90}], "media$keywords": {}, "media$description": {"$t": "Information about Red & White Event such as agenda, time and price.", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "284", "favoriteCount": "0"}, "content": {"$t": "Information about Red & White Event such as agenda, time and price.", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=MoKSSrtF-7E&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/MoKSSrtF-7E/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/MoKSSrtF-7E/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://m.youtube.com/details?v=MoKSSrtF-7E", "type": "text/html", "rel": "http://gdata.youtube.com/schemas/2007#mobile"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/MoKSSrtF-7E", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2010-02-06T02:02:37.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/MoKSSrtF-7E"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "updated": {"$t": "2010-04-23T06:15:14.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/CawhdYr113o/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Hi hi that's me!", "type": "text"}, "app$control": {"app$draft": {"$t": "yes"}}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=CawhdYr113o&feature=youtube_gdata_player"}], "media$category": [{"$t": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "media$title": {"$t": "Hi hi that's me!", "type": "plain"}, "yt$duration": {"seconds": "92"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/CawhdYr113o?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 92, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v1.cache1.c.youtube.com/CigLENy73wIaHwl61_WKdSGsCRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 92, "expression": "full"}, {"medium": "video", "url": "rtsp://v1.cache1.c.youtube.com/CigLENy73wIaHwl61_WKdSGsCRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 92, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/CawhdYr113o/0.jpg", "width": 480, "time": "00:00:46", "height": 360}, {"url": "https://i.ytimg.com/vi/CawhdYr113o/1.jpg", "width": 120, "time": "00:00:23", "height": 90}, {"url": "https://i.ytimg.com/vi/CawhdYr113o/2.jpg", "width": 120, "time": "00:00:46", "height": 90}, {"url": "https://i.ytimg.com/vi/CawhdYr113o/3.jpg", "width": 120, "time": "00:01:09", "height": 90}], "media$keywords": {}, "media$description": {"$t": "", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "143", "favoriteCount": "0"}, "content": {"$t": "", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=CawhdYr113o&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/CawhdYr113o/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/CawhdYr113o/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/CawhdYr113o", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2009-01-06T08:38:13.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/CawhdYr113o"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "updated": {"$t": "2009-12-19T14:43:16.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/bRQ4HNsIv3A/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Arezo found!", "type": "text"}, "app$control": {"app$draft": {"$t": "yes"}}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=bRQ4HNsIv3A&feature=youtube_gdata_player"}], "media$category": [{"$t": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "media$title": {"$t": "Arezo found!", "type": "plain"}, "yt$duration": {"seconds": "17"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/bRQ4HNsIv3A?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 17, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v1.cache3.c.youtube.com/CigLENy73wIaHwlwvwjbHDgUbRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 17, "expression": "full"}, {"medium": "video", "url": "rtsp://v1.cache3.c.youtube.com/CigLENy73wIaHwlwvwjbHDgUbRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 17, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/bRQ4HNsIv3A/0.jpg", "width": 480, "time": "00:00:08.500", "height": 360}, {"url": "https://i.ytimg.com/vi/bRQ4HNsIv3A/1.jpg", "width": 120, "time": "00:00:04.250", "height": 90}, {"url": "https://i.ytimg.com/vi/bRQ4HNsIv3A/2.jpg", "width": 120, "time": "00:00:08.500", "height": 90}, {"url": "https://i.ytimg.com/vi/bRQ4HNsIv3A/3.jpg", "width": 120, "time": "00:00:12.750", "height": 90}], "media$keywords": {}, "media$description": {"$t": "", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "313", "favoriteCount": "0"}, "content": {"$t": "", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=bRQ4HNsIv3A&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/bRQ4HNsIv3A/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/bRQ4HNsIv3A/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/bRQ4HNsIv3A", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2008-12-29T05:35:21.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/bRQ4HNsIv3A"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "updated": {"$t": "2008-12-25T01:35:44.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/tI3x-5IRTgI/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Man or Woman?!", "type": "text"}, "app$control": {"app$draft": {"$t": "yes"}}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=tI3x-5IRTgI&feature=youtube_gdata_player"}], "media$category": [{"$t": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "media$title": {"$t": "Man or Woman?!", "type": "plain"}, "yt$duration": {"seconds": "27"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/tI3x-5IRTgI?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 27, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v4.cache2.c.youtube.com/CigLENy73wIaHwkCThGS-_GNtBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 27, "expression": "full"}, {"medium": "video", "url": "rtsp://v4.cache2.c.youtube.com/CigLENy73wIaHwkCThGS-_GNtBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 27, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/tI3x-5IRTgI/0.jpg", "width": 480, "time": "00:00:13.500", "height": 360}, {"url": "https://i.ytimg.com/vi/tI3x-5IRTgI/1.jpg", "width": 120, "time": "00:00:06.750", "height": 90}, {"url": "https://i.ytimg.com/vi/tI3x-5IRTgI/2.jpg", "width": 120, "time": "00:00:13.500", "height": 90}, {"url": "https://i.ytimg.com/vi/tI3x-5IRTgI/3.jpg", "width": 120, "time": "00:00:20.250", "height": 90}], "media$keywords": {}, "media$description": {"$t": "", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "206", "favoriteCount": "0"}, "content": {"$t": "", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=tI3x-5IRTgI&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/tI3x-5IRTgI/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/tI3x-5IRTgI/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/tI3x-5IRTgI", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2008-12-24T02:46:49.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/tI3x-5IRTgI"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "updated": {"$t": "2009-04-18T05:11:24.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/lzUcyO_kGqM/comments", "countHint": 0, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Beware!", "type": "text"}, "app$control": {"app$draft": {"$t": "yes"}}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=lzUcyO_kGqM&feature=youtube_gdata_player"}], "media$category": [{"$t": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "media$title": {"$t": "Beware!", "type": "plain"}, "yt$duration": {"seconds": "66"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/lzUcyO_kGqM?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 66, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v7.cache8.c.youtube.com/CigLENy73wIaHwmjGuTvyBw1lxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 66, "expression": "full"}, {"medium": "video", "url": "rtsp://v7.cache8.c.youtube.com/CigLENy73wIaHwmjGuTvyBw1lxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 66, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/lzUcyO_kGqM/0.jpg", "width": 480, "time": "00:00:33", "height": 360}, {"url": "https://i.ytimg.com/vi/lzUcyO_kGqM/1.jpg", "width": 120, "time": "00:00:16.500", "height": 90}, {"url": "https://i.ytimg.com/vi/lzUcyO_kGqM/2.jpg", "width": 120, "time": "00:00:33", "height": 90}, {"url": "https://i.ytimg.com/vi/lzUcyO_kGqM/3.jpg", "width": 120, "time": "00:00:49.500", "height": 90}], "media$keywords": {}, "media$description": {"$t": "", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "164", "favoriteCount": "0"}, "content": {"$t": "", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=lzUcyO_kGqM&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/lzUcyO_kGqM/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/lzUcyO_kGqM/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/lzUcyO_kGqM", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2008-12-18T20:45:24.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/lzUcyO_kGqM"}}, {"category": [{"term": "http://gdata.youtube.com/schemas/2007#video", "scheme": "http://schemas.google.com/g/2005#kind"}, {"term": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "updated": {"$t": "2008-12-24T03:43:40.000Z"}, "gd$comments": {"gd$feedLink": {"href": "https://gdata.youtube.com/feeds/api/videos/vJipeSUsuHM/comments", "countHint": 1, "rel": "http://gdata.youtube.com/schemas/2007#comments"}}, "title": {"$t": "Giant Round Things!", "type": "text"}, "app$control": {"app$draft": {"$t": "yes"}}, "media$group": {"media$player": [{"url": "https://www.youtube.com/watch?v=vJipeSUsuHM&feature=youtube_gdata_player"}], "media$category": [{"$t": "People", "scheme": "http://gdata.youtube.com/schemas/2007/categories.cat", "label": "People & Blogs"}], "media$title": {"$t": "Giant Round Things!", "type": "plain"}, "yt$duration": {"seconds": "27"}, "media$content": [{"medium": "video", "url": "https://www.youtube.com/v/vJipeSUsuHM?version=3&f=user_uploads&app=youtube_gdata", "type": "application/x-shockwave-flash", "yt$format": 5, "duration": 27, "expression": "full", "isDefault": "true"}, {"medium": "video", "url": "rtsp://v2.cache4.c.youtube.com/CigLENy73wIaHwlzuCwleamYvBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 1, "duration": 27, "expression": "full"}, {"medium": "video", "url": "rtsp://v2.cache4.c.youtube.com/CigLENy73wIaHwlzuCwleamYvBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp", "type": "video/3gpp", "yt$format": 6, "duration": 27, "expression": "full"}], "media$thumbnail": [{"url": "https://i.ytimg.com/vi/vJipeSUsuHM/0.jpg", "width": 480, "time": "00:00:13.500", "height": 360}, {"url": "https://i.ytimg.com/vi/vJipeSUsuHM/1.jpg", "width": 120, "time": "00:00:06.750", "height": 90}, {"url": "https://i.ytimg.com/vi/vJipeSUsuHM/2.jpg", "width": 120, "time": "00:00:13.500", "height": 90}, {"url": "https://i.ytimg.com/vi/vJipeSUsuHM/3.jpg", "width": 120, "time": "00:00:20.250", "height": 90}], "media$keywords": {}, "media$description": {"$t": "", "type": "plain"}}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "yt$statistics": {"viewCount": "118", "favoriteCount": "0"}, "content": {"$t": "", "type": "text"}, "link": [{"href": "https://www.youtube.com/watch?v=vJipeSUsuHM&feature=youtube_gdata", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/videos/vJipeSUsuHM/responses", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.responses"}, {"href": "https://gdata.youtube.com/feeds/api/videos/vJipeSUsuHM/related", "type": "application/atom+xml", "rel": "http://gdata.youtube.com/schemas/2007#video.related"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/vJipeSUsuHM", "type": "application/atom+xml", "rel": "self"}], "published": {"$t": "2008-12-18T08:14:08.000Z"}, "id": {"$t": "http://gdata.youtube.com/feeds/api/videos/vJipeSUsuHM"}}], "generator": {"$t": "YouTube data API", "version": "2.1", "uri": "http://gdata.youtube.com"}, "title": {"$t": "Uploads by Evelina Gaina", "type": "text"}, "author": [{"name": {"$t": "Evelina Gaina"}, "uri": {"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"}}], "xmlns$yt": "http://gdata.youtube.com/schemas/2007", "id": {"$t": "http://gdata.youtube.com/feeds/api/users/meevelina/uploads"}, "xmlns$app": "http://purl.org/atom/app#", "xmlns$gd": "http://schemas.google.com/g/2005", "link": [{"href": "https://gdata.youtube.com/feeds/api/users/meevelina", "type": "application/atom+xml", "rel": "related"}, {"href": "https://www.youtube.com/channel/UCkEE53ubT7Al2krbLLdcgsw/videos", "type": "text/html", "rel": "alternate"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads", "type": "application/atom+xml", "rel": "http://schemas.google.com/g/2005#feed"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/batch", "type": "application/atom+xml", "rel": "http://schemas.google.com/g/2005#batch"}, {"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads?alt=json&start-index=1&max-results=50", "type": "application/atom+xml", "rel": "self"}], "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", "openSearch$itemsPerPage": {"$t": 50}, "logo": {"$t": "http://www.youtube.com/img/pic_youtubelogo_123x63.gif"}, "openSearch$totalResults": {"$t": 22}, "xmlns$media": "http://search.yahoo.com/mrss/"}, "version": "1.0", "encoding": "UTF-8"}
+{
+	"feed": {
+		"category": [
+			{
+				"term": "http://gdata.youtube.com/schemas/2007#video",
+				"scheme": "http://schemas.google.com/g/2005#kind"
+			}
+		],
+		"updated": {
+			"$t": "2013-06-07T23:16:12.793Z"
+		},
+		"xmlns": "http://www.w3.org/2005/Atom",
+		"openSearch$startIndex": {
+			"$t": 1
+		},
+		"entry": [
+			{
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Entertainment",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Entertainment"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-28T02:48:20.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/hPn0CnBZW1Y/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Greek Festival",
+					"type": "text"
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=hPn0CnBZW1Y&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Entertainment",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Entertainment"
+						}
+					],
+					"media$title": {
+						"$t": "Greek Festival",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "109"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/hPn0CnBZW1Y?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 109,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v2.cache5.c.youtube.com/CigLENy73wIaHwlWW1lwCvT5hBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 109,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v2.cache5.c.youtube.com/CigLENy73wIaHwlWW1lwCvT5hBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 109,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/hPn0CnBZW1Y/0.jpg",
+							"width": 480,
+							"time": "00:00:54.500",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/hPn0CnBZW1Y/1.jpg",
+							"width": 120,
+							"time": "00:00:27.250",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/hPn0CnBZW1Y/2.jpg",
+							"width": 120,
+							"time": "00:00:54.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/hPn0CnBZW1Y/3.jpg",
+							"width": 120,
+							"time": "00:01:21.750",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "Evelina loves to attend any type of festivals. One of the festivals she enjoyed going to Greek Festival in Northridge, CA.",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "121",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "Evelina loves to attend any type of festivals. One of the festivals she enjoyed going to Greek Festival in Northridge, CA.",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=hPn0CnBZW1Y&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/hPn0CnBZW1Y/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/hPn0CnBZW1Y/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=hPn0CnBZW1Y",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/hPn0CnBZW1Y",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2013-05-28T02:48:20.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/hPn0CnBZW1Y"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Comedy",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Comedy"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-24T04:12:23.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/esb1Dr6aVP8/comments",
+						"countHint": 2,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Got Milk?",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 4.2,
+					"numRaters": 5,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=esb1Dr6aVP8&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Comedy",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Comedy"
+						}
+					],
+					"media$title": {
+						"$t": "Got Milk?",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "58"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/esb1Dr6aVP8?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 58,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v2.cache5.c.youtube.com/CigLENy73wIaHwn_VJq-DvXGehMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 58,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v2.cache5.c.youtube.com/CigLENy73wIaHwn_VJq-DvXGehMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 58,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/esb1Dr6aVP8/0.jpg",
+							"width": 480,
+							"time": "00:00:29",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/esb1Dr6aVP8/1.jpg",
+							"width": 120,
+							"time": "00:00:14.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/esb1Dr6aVP8/2.jpg",
+							"width": 120,
+							"time": "00:00:29",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/esb1Dr6aVP8/3.jpg",
+							"width": 120,
+							"time": "00:00:43.500",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "Evelina Gaina encountered the funny situation at Sacred Monkey Forest with monkey named \"Curious George\" in Ubud, Indonesia (Bali).",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "521",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "Evelina Gaina encountered the funny situation at Sacred Monkey Forest with monkey named \"Curious George\" in Ubud, Indonesia (Bali).",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=esb1Dr6aVP8&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/esb1Dr6aVP8/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/esb1Dr6aVP8/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=esb1Dr6aVP8",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/esb1Dr6aVP8",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2013-05-22T21:06:07.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/esb1Dr6aVP8"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Entertainment",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Entertainment"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-20T11:33:03.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/a6lnlQ_msPk/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Literacy Through International Sign",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 2,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=a6lnlQ_msPk&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Entertainment",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Entertainment"
+						}
+					],
+					"media$title": {
+						"$t": "Literacy Through International Sign",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "173"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/a6lnlQ_msPk?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 173,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v3.cache5.c.youtube.com/CigLENy73wIaHwn5sOYPlWepaxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 173,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v3.cache5.c.youtube.com/CigLENy73wIaHwn5sOYPlWepaxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 173,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/a6lnlQ_msPk/0.jpg",
+							"width": 480,
+							"time": "00:01:26.500",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/a6lnlQ_msPk/1.jpg",
+							"width": 120,
+							"time": "00:00:43.250",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/a6lnlQ_msPk/2.jpg",
+							"width": 120,
+							"time": "00:01:26.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/a6lnlQ_msPk/3.jpg",
+							"width": 120,
+							"time": "00:02:09.750",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "Honor our mom for many different reasons. Reflecting on my literacy experience with my mum not through ASL or English but International Sign. Grateful for our mom on Mother's Day and Any Day!",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "124",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "Honor our mom for many different reasons. Reflecting on my literacy experience with my mum not through ASL or English but International Sign. Grateful for our mom on Mother's Day and Any Day!",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=a6lnlQ_msPk&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/a6lnlQ_msPk/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/a6lnlQ_msPk/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=a6lnlQ_msPk",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/a6lnlQ_msPk",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2013-05-20T00:52:04.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/a6lnlQ_msPk"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Comedy",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Comedy"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-20T11:36:45.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/3IGJV9E_DPo/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Deaf vs Hearing Rafting Race",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 2,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=3IGJV9E_DPo&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Comedy",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Comedy"
+						}
+					],
+					"media$title": {
+						"$t": "Deaf vs Hearing Rafting Race",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "112"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/3IGJV9E_DPo?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 112,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v1.cache8.c.youtube.com/CigLENy73wIaHwn6DD_RV4mB3BMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 112,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v1.cache8.c.youtube.com/CigLENy73wIaHwn6DD_RV4mB3BMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 112,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/3IGJV9E_DPo/0.jpg",
+							"width": 480,
+							"time": "00:00:56",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/3IGJV9E_DPo/1.jpg",
+							"width": 120,
+							"time": "00:00:28",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/3IGJV9E_DPo/2.jpg",
+							"width": 120,
+							"time": "00:00:56",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/3IGJV9E_DPo/3.jpg",
+							"width": 120,
+							"time": "00:01:24",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "One of Evelina Gaina's adventure in Bali, Indonesia. American Sign Language was used while rafting with a beautiful scenario in Bali.",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "212",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "One of Evelina Gaina's adventure in Bali, Indonesia. American Sign Language was used while rafting with a beautiful scenario in Bali.",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=3IGJV9E_DPo&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/3IGJV9E_DPo/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/3IGJV9E_DPo/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=3IGJV9E_DPo",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/3IGJV9E_DPo",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2013-05-18T08:09:37.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/3IGJV9E_DPo"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Comedy",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Comedy"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-23T17:59:57.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/bXCH518UedM/comments",
+						"countHint": 2,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Beware of Evelina!",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 3,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=bXCH518UedM&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Comedy",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Comedy"
+						}
+					],
+					"media$title": {
+						"$t": "Beware of Evelina!",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "24"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/bXCH518UedM?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 24,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v3.cache1.c.youtube.com/CigLENy73wIaHwnTeRRf54dwbRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 24,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v3.cache1.c.youtube.com/CigLENy73wIaHwnTeRRf54dwbRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 24,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/bXCH518UedM/0.jpg",
+							"width": 480,
+							"time": "00:00:12",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/bXCH518UedM/1.jpg",
+							"width": 120,
+							"time": "00:00:06",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/bXCH518UedM/2.jpg",
+							"width": 120,
+							"time": "00:00:12",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/bXCH518UedM/3.jpg",
+							"width": 120,
+							"time": "00:00:18",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "Evelina Gaina, the karate lady in Death Valley, CA.",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "628",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "Evelina Gaina, the karate lady in Death Valley, CA.",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=bXCH518UedM&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/bXCH518UedM/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/bXCH518UedM/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=bXCH518UedM",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/bXCH518UedM",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2013-05-14T03:26:05.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/bXCH518UedM"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Comedy",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Comedy"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-09T18:14:28.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/C6aellBpMI8/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Swinging after dinner part 2",
+					"type": "text"
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=C6aellBpMI8&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Comedy",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Comedy"
+						}
+					],
+					"media$title": {
+						"$t": "Swinging after dinner part 2",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "103"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/C6aellBpMI8?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 103,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v7.cache6.c.youtube.com/CigLENy73wIaHwmPMGlQlp6mCxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 103,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v7.cache6.c.youtube.com/CigLENy73wIaHwmPMGlQlp6mCxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 103,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/C6aellBpMI8/0.jpg",
+							"width": 480,
+							"time": "00:00:51.500",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/C6aellBpMI8/1.jpg",
+							"width": 120,
+							"time": "00:00:25.750",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/C6aellBpMI8/2.jpg",
+							"width": 120,
+							"time": "00:00:51.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/C6aellBpMI8/3.jpg",
+							"width": 120,
+							"time": "00:01:17.250",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "Continue from part 1 with loco daughter and mother chatting mixed in American Sign Language and Romania Sign Language.",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "21",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "Continue from part 1 with loco daughter and mother chatting mixed in American Sign Language and Romania Sign Language.",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=C6aellBpMI8&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/C6aellBpMI8/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/C6aellBpMI8/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=C6aellBpMI8",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/C6aellBpMI8",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2013-05-09T18:14:28.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/C6aellBpMI8"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Comedy",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Comedy"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-09T18:11:59.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/hTO43n2j-8I/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Swinging after dinner part 1",
+					"type": "text"
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=hTO43n2j-8I&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Comedy",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Comedy"
+						}
+					],
+					"media$title": {
+						"$t": "Swinging after dinner part 1",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "61"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/hTO43n2j-8I?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 61,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v7.cache2.c.youtube.com/CigLENy73wIaHwnC-6N93rgzhRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 61,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v7.cache2.c.youtube.com/CigLENy73wIaHwnC-6N93rgzhRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 61,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/hTO43n2j-8I/0.jpg",
+							"width": 480,
+							"time": "00:00:30.500",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/hTO43n2j-8I/1.jpg",
+							"width": 120,
+							"time": "00:00:15.250",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/hTO43n2j-8I/2.jpg",
+							"width": 120,
+							"time": "00:00:30.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/hTO43n2j-8I/3.jpg",
+							"width": 120,
+							"time": "00:00:45.750",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "Loco daughter and mother chatting mixed in American Sign Language and Romania Sign Language.",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "21",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "Loco daughter and mother chatting mixed in American Sign Language and Romania Sign Language.",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=hTO43n2j-8I&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/hTO43n2j-8I/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/hTO43n2j-8I/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=hTO43n2j-8I",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/hTO43n2j-8I",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2013-05-09T18:11:59.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/hTO43n2j-8I"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Entertainment",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Entertainment"
+					}
+				],
+				"updated": {
+					"$t": "2013-06-03T09:22:14.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/mojDhpiiNwg/comments",
+						"countHint": 1,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "International Sign Language",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 11,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=mojDhpiiNwg&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Entertainment",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Entertainment"
+						}
+					],
+					"media$title": {
+						"$t": "International Sign Language",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "185"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/mojDhpiiNwg?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 185,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v8.cache1.c.youtube.com/CigLENy73wIaHwkIN6KYhsOImhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 185,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v8.cache1.c.youtube.com/CigLENy73wIaHwkIN6KYhsOImhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 185,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/mojDhpiiNwg/0.jpg",
+							"width": 480,
+							"time": "00:01:32.500",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/mojDhpiiNwg/1.jpg",
+							"width": 120,
+							"time": "00:00:46.250",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/mojDhpiiNwg/2.jpg",
+							"width": 120,
+							"time": "00:01:32.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/mojDhpiiNwg/3.jpg",
+							"width": 120,
+							"time": "00:02:18.750",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "Evelina Gaina shares her personal experience in International Sign Language.",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "582",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "Evelina Gaina shares her personal experience in International Sign Language.",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=mojDhpiiNwg&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/mojDhpiiNwg/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/mojDhpiiNwg/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=mojDhpiiNwg",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/mojDhpiiNwg",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2013-05-04T04:07:35.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/mojDhpiiNwg"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Travel",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Travel & Events"
+					}
+				],
+				"updated": {
+					"$t": "2013-03-15T06:07:09.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/SlM8bo-g1qg/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Video: What A Girl Gonna Do?",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 2,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=SlM8bo-g1qg&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Travel",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Travel & Events"
+						}
+					],
+					"media$title": {
+						"$t": "Video: What A Girl Gonna Do?",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "66"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/SlM8bo-g1qg?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 66,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v2.cache4.c.youtube.com/CigLENy73wIaHwmo1qCPbjxTShMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 66,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v2.cache4.c.youtube.com/CigLENy73wIaHwmo1qCPbjxTShMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 66,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/SlM8bo-g1qg/0.jpg",
+							"width": 480,
+							"time": "00:00:33",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/SlM8bo-g1qg/1.jpg",
+							"width": 120,
+							"time": "00:00:16.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/SlM8bo-g1qg/2.jpg",
+							"width": 120,
+							"time": "00:00:33",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/SlM8bo-g1qg/3.jpg",
+							"width": 120,
+							"time": "00:00:49.500",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "Evelina Gaina will be traveling to Reims in France to perform \"No Name Yet!\" Show for \nClin d' Oeil 6th Festival 2013!",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "269",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "Evelina Gaina will be traveling to Reims in France to perform \"No Name Yet!\" Show for \nClin d' Oeil 6th Festival 2013!",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=SlM8bo-g1qg&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/SlM8bo-g1qg/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/SlM8bo-g1qg/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=SlM8bo-g1qg",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/SlM8bo-g1qg",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2013-03-15T03:41:59.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/SlM8bo-g1qg"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Entertainment",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Entertainment"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-22T06:23:35.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/1WsA-ob5vzA/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "ASL - Peace & Love",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 9,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=1WsA-ob5vzA&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Entertainment",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Entertainment"
+						}
+					],
+					"media$title": {
+						"$t": "ASL - Peace & Love",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "121"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/1WsA-ob5vzA?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 121,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v5.cache3.c.youtube.com/CigLENy73wIaHwkwv_mG-gBr1RMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 121,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v5.cache3.c.youtube.com/CigLENy73wIaHwkwv_mG-gBr1RMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 121,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/1WsA-ob5vzA/0.jpg",
+							"width": 480,
+							"time": "00:01:00.500",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/1WsA-ob5vzA/1.jpg",
+							"width": 120,
+							"time": "00:00:30.250",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/1WsA-ob5vzA/2.jpg",
+							"width": 120,
+							"time": "00:01:00.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/1WsA-ob5vzA/3.jpg",
+							"width": 120,
+							"time": "00:01:30.750",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "522",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=1WsA-ob5vzA&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/1WsA-ob5vzA/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/1WsA-ob5vzA/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=1WsA-ob5vzA",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/1WsA-ob5vzA",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2012-11-17T00:33:19.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/1WsA-ob5vzA"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Entertainment",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Entertainment"
+					}
+				],
+				"updated": {
+					"$t": "2013-02-21T19:45:36.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/IvcypcW04fc/comments",
+						"countHint": 2,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "ASL: Why Angry Bird?",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 3,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=IvcypcW04fc&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Entertainment",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Entertainment"
+						}
+					],
+					"media$title": {
+						"$t": "ASL: Why Angry Bird?",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "105"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/IvcypcW04fc?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 105,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v1.cache7.c.youtube.com/CigLENy73wIaHwn34bTFpTL3IhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 105,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v1.cache7.c.youtube.com/CigLENy73wIaHwn34bTFpTL3IhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 105,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/IvcypcW04fc/0.jpg",
+							"width": 480,
+							"time": "00:00:52.500",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/IvcypcW04fc/1.jpg",
+							"width": 120,
+							"time": "00:00:26.250",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/IvcypcW04fc/2.jpg",
+							"width": 120,
+							"time": "00:00:52.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/IvcypcW04fc/3.jpg",
+							"width": 120,
+							"time": "00:01:18.750",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "226",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=IvcypcW04fc&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/IvcypcW04fc/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/IvcypcW04fc/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=IvcypcW04fc",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/IvcypcW04fc",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2012-07-07T03:25:49.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/IvcypcW04fc"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Entertainment",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Entertainment"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-08T21:23:15.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/ioU-pPpTREg/comments",
+						"countHint": 4,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "EGE Red Carpet \"Hard Man\" by ASL Films",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 4.0,
+					"numRaters": 8,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=ioU-pPpTREg&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Entertainment",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Entertainment"
+						}
+					],
+					"media$title": {
+						"$t": "EGE Red Carpet \"Hard Man\" by ASL Films",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "132"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/ioU-pPpTREg?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 132,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v4.cache5.c.youtube.com/CigLENy73wIaHwlIRFP6pD6FihMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 132,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v4.cache5.c.youtube.com/CigLENy73wIaHwlIRFP6pD6FihMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 132,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/ioU-pPpTREg/0.jpg",
+							"width": 480,
+							"time": "00:01:06",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/ioU-pPpTREg/1.jpg",
+							"width": 120,
+							"time": "00:00:33",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/ioU-pPpTREg/2.jpg",
+							"width": 120,
+							"time": "00:01:06",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/ioU-pPpTREg/3.jpg",
+							"width": 120,
+							"time": "00:01:39",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "EG Entertainment (EGE) invites you to our 3rd annual Red Carpet event! \n\nThis will be ASL Films' 7th full-length film release, and the Red Carpet event will bring the Deaf community together again for another glamorous Hollywood experience. ASL Films will premiere the film \"Hard Man\" directed by Mark Wood and acted by our well-known entertainer Andrew Vasnick, who also acted in \"Gerald.\" The Red Carpet event will bring the Deaf community together again for another glamorous Hollywood experience. \n\nBuy Ticket via PayPal: http://www.evelinagaina.com. \nProduction Company: http://www.aslfilms.com.\nCollaboration: http://www.ideafnews.com & http://www.gladinc.org.\n\nPlease take a moment to visit our new Facebook Page and Click Like: http://www.facebook.com/EvelinaGainaEntertainment",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "6431",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "EG Entertainment (EGE) invites you to our 3rd annual Red Carpet event! \n\nThis will be ASL Films' 7th full-length film release, and the Red Carpet event will bring the Deaf community together again for another glamorous Hollywood experience. ASL Films will premiere the film \"Hard Man\" directed by Mark Wood and acted by our well-known entertainer Andrew Vasnick, who also acted in \"Gerald.\" The Red Carpet event will bring the Deaf community together again for another glamorous Hollywood experience. \n\nBuy Ticket via PayPal: http://www.evelinagaina.com. \nProduction Company: http://www.aslfilms.com.\nCollaboration: http://www.ideafnews.com & http://www.gladinc.org.\n\nPlease take a moment to visit our new Facebook Page and Click Like: http://www.facebook.com/EvelinaGainaEntertainment",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=ioU-pPpTREg&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/ioU-pPpTREg/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/ioU-pPpTREg/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=ioU-pPpTREg",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/ioU-pPpTREg",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2012-06-05T05:08:59.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/ioU-pPpTREg"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "People",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "People & Blogs"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-08T21:23:52.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/zOLzMgyflBY/comments",
+						"countHint": 4,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "ASL & RSL",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 9,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=zOLzMgyflBY&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "People",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "People & Blogs"
+						}
+					],
+					"media$title": {
+						"$t": "ASL & RSL",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "184"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/zOLzMgyflBY?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 184,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v3.cache6.c.youtube.com/CigLENy73wIaHwkWlJ8MMvPizBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 184,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v3.cache6.c.youtube.com/CigLENy73wIaHwkWlJ8MMvPizBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 184,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/zOLzMgyflBY/0.jpg",
+							"width": 480,
+							"time": "00:01:32",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/zOLzMgyflBY/1.jpg",
+							"width": 120,
+							"time": "00:00:46",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/zOLzMgyflBY/2.jpg",
+							"width": 120,
+							"time": "00:01:32",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/zOLzMgyflBY/3.jpg",
+							"width": 120,
+							"time": "00:02:18",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "767",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=zOLzMgyflBY&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/zOLzMgyflBY/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/zOLzMgyflBY/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=zOLzMgyflBY",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/zOLzMgyflBY",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2011-12-11T01:21:40.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/zOLzMgyflBY"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Travel",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Travel & Events"
+					}
+				],
+				"updated": {
+					"$t": "2011-09-22T14:48:13.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/yBJ5qsrRMU8/comments",
+						"countHint": 1,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "VERC VLOG",
+					"type": "text"
+				},
+				"app$control": {
+					"app$draft": {
+						"$t": "yes"
+					}
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=yBJ5qsrRMU8&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Travel",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Travel & Events"
+						}
+					],
+					"media$title": {
+						"$t": "VERC VLOG",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "212"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/yBJ5qsrRMU8?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 212,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v5.cache1.c.youtube.com/CigLENy73wIaHwlPMdHKqnkSyBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 212,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v5.cache1.c.youtube.com/CigLENy73wIaHwlPMdHKqnkSyBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 212,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/yBJ5qsrRMU8/0.jpg",
+							"width": 480,
+							"time": "00:01:46",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/yBJ5qsrRMU8/1.jpg",
+							"width": 120,
+							"time": "00:00:53",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/yBJ5qsrRMU8/2.jpg",
+							"width": 120,
+							"time": "00:01:46",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/yBJ5qsrRMU8/3.jpg",
+							"width": 120,
+							"time": "00:02:39",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "290",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 2,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=yBJ5qsrRMU8&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/yBJ5qsrRMU8/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/yBJ5qsrRMU8/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=yBJ5qsrRMU8",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/yBJ5qsrRMU8",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2011-08-02T18:56:38.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/yBJ5qsrRMU8"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Travel",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Travel & Events"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-08T21:22:54.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/IaYrjzlVMcE/comments",
+						"countHint": 1,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "No Name Yet promo",
+					"type": "text"
+				},
+				"app$control": {
+					"app$draft": {
+						"$t": "yes"
+					}
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=IaYrjzlVMcE&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Travel",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Travel & Events"
+						}
+					],
+					"media$title": {
+						"$t": "No Name Yet promo",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "37"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/IaYrjzlVMcE?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 37,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v6.cache7.c.youtube.com/CigLENy73wIaHwnBMVU5jyumIRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 37,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v6.cache7.c.youtube.com/CigLENy73wIaHwnBMVU5jyumIRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 37,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/IaYrjzlVMcE/0.jpg",
+							"width": 480,
+							"time": "00:00:18.500",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/IaYrjzlVMcE/1.jpg",
+							"width": 120,
+							"time": "00:00:09.250",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/IaYrjzlVMcE/2.jpg",
+							"width": 120,
+							"time": "00:00:18.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/IaYrjzlVMcE/3.jpg",
+							"width": 120,
+							"time": "00:00:27.750",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "2261",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 4,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=IaYrjzlVMcE&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/IaYrjzlVMcE/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/IaYrjzlVMcE/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=IaYrjzlVMcE",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/IaYrjzlVMcE",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2011-06-10T21:31:26.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/IaYrjzlVMcE"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Travel",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Travel & Events"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-08T21:25:14.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/INUwUIQAq9E/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "6 Days Left Until the Red & White Event!",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 1,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=INUwUIQAq9E&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Travel",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Travel & Events"
+						}
+					],
+					"media$title": {
+						"$t": "6 Days Left Until the Red & White Event!",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "94"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/INUwUIQAq9E?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 94,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v4.cache1.c.youtube.com/CigLENy73wIaHwnRqwCEUDDVIBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 94,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v4.cache1.c.youtube.com/CigLENy73wIaHwnRqwCEUDDVIBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 94,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/INUwUIQAq9E/0.jpg",
+							"width": 480,
+							"time": "00:00:47",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/INUwUIQAq9E/1.jpg",
+							"width": 120,
+							"time": "00:00:23.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/INUwUIQAq9E/2.jpg",
+							"width": 120,
+							"time": "00:00:47",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/INUwUIQAq9E/3.jpg",
+							"width": 120,
+							"time": "00:01:10.500",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "The tickets are running out. 6 days left until the Red & White Event and buy your ticket to RSVP. Ticket is $35, it includes the homemade international foods, drinks, socialization and photo auction. Check out the website at www.wix/com/2maisha/evelinagaina. Email me if you have any questions!\n\nCheers!",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "146",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "The tickets are running out. 6 days left until the Red & White Event and buy your ticket to RSVP. Ticket is $35, it includes the homemade international foods, drinks, socialization and photo auction. Check out the website at www.wix/com/2maisha/evelinagaina. Email me if you have any questions!\n\nCheers!",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=INUwUIQAq9E&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/INUwUIQAq9E/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/INUwUIQAq9E/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=INUwUIQAq9E",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/INUwUIQAq9E",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2010-02-22T03:06:41.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/INUwUIQAq9E"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "Travel",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "Travel & Events"
+					}
+				],
+				"updated": {
+					"$t": "2013-05-08T21:25:39.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/MoKSSrtF-7E/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Red & White Vlog",
+					"type": "text"
+				},
+				"gd$rating": {
+					"max": 5,
+					"average": 5.0,
+					"numRaters": 1,
+					"rel": "http://schemas.google.com/g/2005#overall",
+					"min": 1
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=MoKSSrtF-7E&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "Travel",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "Travel & Events"
+						}
+					],
+					"media$title": {
+						"$t": "Red & White Vlog",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "124"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/MoKSSrtF-7E?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 124,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v7.cache4.c.youtube.com/CigLENy73wIaHwmx-0W7SpKCMhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 124,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v7.cache4.c.youtube.com/CigLENy73wIaHwmx-0W7SpKCMhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 124,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/MoKSSrtF-7E/0.jpg",
+							"width": 480,
+							"time": "00:01:02",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/MoKSSrtF-7E/1.jpg",
+							"width": 120,
+							"time": "00:00:31",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/MoKSSrtF-7E/2.jpg",
+							"width": 120,
+							"time": "00:01:02",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/MoKSSrtF-7E/3.jpg",
+							"width": 120,
+							"time": "00:01:33",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "Information about Red & White Event such as agenda, time and price.",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "284",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "Information about Red & White Event such as agenda, time and price.",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=MoKSSrtF-7E&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/MoKSSrtF-7E/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/MoKSSrtF-7E/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://m.youtube.com/details?v=MoKSSrtF-7E",
+						"type": "text/html",
+						"rel": "http://gdata.youtube.com/schemas/2007#mobile"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/MoKSSrtF-7E",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2010-02-06T02:02:37.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/MoKSSrtF-7E"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "People",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "People & Blogs"
+					}
+				],
+				"updated": {
+					"$t": "2010-04-23T06:15:14.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/CawhdYr113o/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Hi hi that's me!",
+					"type": "text"
+				},
+				"app$control": {
+					"app$draft": {
+						"$t": "yes"
+					}
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=CawhdYr113o&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "People",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "People & Blogs"
+						}
+					],
+					"media$title": {
+						"$t": "Hi hi that's me!",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "92"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/CawhdYr113o?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 92,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v1.cache1.c.youtube.com/CigLENy73wIaHwl61_WKdSGsCRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 92,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v1.cache1.c.youtube.com/CigLENy73wIaHwl61_WKdSGsCRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 92,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/CawhdYr113o/0.jpg",
+							"width": 480,
+							"time": "00:00:46",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/CawhdYr113o/1.jpg",
+							"width": 120,
+							"time": "00:00:23",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/CawhdYr113o/2.jpg",
+							"width": 120,
+							"time": "00:00:46",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/CawhdYr113o/3.jpg",
+							"width": 120,
+							"time": "00:01:09",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "143",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=CawhdYr113o&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/CawhdYr113o/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/CawhdYr113o/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/CawhdYr113o",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2009-01-06T08:38:13.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/CawhdYr113o"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "People",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "People & Blogs"
+					}
+				],
+				"updated": {
+					"$t": "2009-12-19T14:43:16.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/bRQ4HNsIv3A/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Arezo found!",
+					"type": "text"
+				},
+				"app$control": {
+					"app$draft": {
+						"$t": "yes"
+					}
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=bRQ4HNsIv3A&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "People",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "People & Blogs"
+						}
+					],
+					"media$title": {
+						"$t": "Arezo found!",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "17"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/bRQ4HNsIv3A?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 17,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v1.cache3.c.youtube.com/CigLENy73wIaHwlwvwjbHDgUbRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 17,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v1.cache3.c.youtube.com/CigLENy73wIaHwlwvwjbHDgUbRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 17,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/bRQ4HNsIv3A/0.jpg",
+							"width": 480,
+							"time": "00:00:08.500",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/bRQ4HNsIv3A/1.jpg",
+							"width": 120,
+							"time": "00:00:04.250",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/bRQ4HNsIv3A/2.jpg",
+							"width": 120,
+							"time": "00:00:08.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/bRQ4HNsIv3A/3.jpg",
+							"width": 120,
+							"time": "00:00:12.750",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "314",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=bRQ4HNsIv3A&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/bRQ4HNsIv3A/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/bRQ4HNsIv3A/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/bRQ4HNsIv3A",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2008-12-29T05:35:21.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/bRQ4HNsIv3A"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "People",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "People & Blogs"
+					}
+				],
+				"updated": {
+					"$t": "2008-12-25T01:35:44.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/tI3x-5IRTgI/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Man or Woman?!",
+					"type": "text"
+				},
+				"app$control": {
+					"app$draft": {
+						"$t": "yes"
+					}
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=tI3x-5IRTgI&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "People",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "People & Blogs"
+						}
+					],
+					"media$title": {
+						"$t": "Man or Woman?!",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "27"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/tI3x-5IRTgI?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 27,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v4.cache2.c.youtube.com/CigLENy73wIaHwkCThGS-_GNtBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 27,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v4.cache2.c.youtube.com/CigLENy73wIaHwkCThGS-_GNtBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 27,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/tI3x-5IRTgI/0.jpg",
+							"width": 480,
+							"time": "00:00:13.500",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/tI3x-5IRTgI/1.jpg",
+							"width": 120,
+							"time": "00:00:06.750",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/tI3x-5IRTgI/2.jpg",
+							"width": 120,
+							"time": "00:00:13.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/tI3x-5IRTgI/3.jpg",
+							"width": 120,
+							"time": "00:00:20.250",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "206",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=tI3x-5IRTgI&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/tI3x-5IRTgI/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/tI3x-5IRTgI/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/tI3x-5IRTgI",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2008-12-24T02:46:49.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/tI3x-5IRTgI"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "People",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "People & Blogs"
+					}
+				],
+				"updated": {
+					"$t": "2009-04-18T05:11:24.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/lzUcyO_kGqM/comments",
+						"countHint": 0,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Beware!",
+					"type": "text"
+				},
+				"app$control": {
+					"app$draft": {
+						"$t": "yes"
+					}
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=lzUcyO_kGqM&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "People",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "People & Blogs"
+						}
+					],
+					"media$title": {
+						"$t": "Beware!",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "66"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/lzUcyO_kGqM?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 66,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v7.cache8.c.youtube.com/CigLENy73wIaHwmjGuTvyBw1lxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 66,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v7.cache8.c.youtube.com/CigLENy73wIaHwmjGuTvyBw1lxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 66,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/lzUcyO_kGqM/0.jpg",
+							"width": 480,
+							"time": "00:00:33",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/lzUcyO_kGqM/1.jpg",
+							"width": 120,
+							"time": "00:00:16.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/lzUcyO_kGqM/2.jpg",
+							"width": 120,
+							"time": "00:00:33",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/lzUcyO_kGqM/3.jpg",
+							"width": 120,
+							"time": "00:00:49.500",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "164",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=lzUcyO_kGqM&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/lzUcyO_kGqM/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/lzUcyO_kGqM/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/lzUcyO_kGqM",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2008-12-18T20:45:24.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/lzUcyO_kGqM"
+				}
+			}, {
+				"category": [
+					{
+						"term": "http://gdata.youtube.com/schemas/2007#video",
+						"scheme": "http://schemas.google.com/g/2005#kind"
+					}, {
+						"term": "People",
+						"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+						"label": "People & Blogs"
+					}
+				],
+				"updated": {
+					"$t": "2008-12-24T03:43:40.000Z"
+				},
+				"gd$comments": {
+					"gd$feedLink": {
+						"href": "https://gdata.youtube.com/feeds/api/videos/vJipeSUsuHM/comments",
+						"countHint": 1,
+						"rel": "http://gdata.youtube.com/schemas/2007#comments"
+					}
+				},
+				"title": {
+					"$t": "Giant Round Things!",
+					"type": "text"
+				},
+				"app$control": {
+					"app$draft": {
+						"$t": "yes"
+					}
+				},
+				"media$group": {
+					"media$player": [
+						{
+							"url": "https://www.youtube.com/watch?v=vJipeSUsuHM&feature=youtube_gdata_player"
+						}
+					],
+					"media$category": [
+						{
+							"$t": "People",
+							"scheme": "http://gdata.youtube.com/schemas/2007/categories.cat",
+							"label": "People & Blogs"
+						}
+					],
+					"media$title": {
+						"$t": "Giant Round Things!",
+						"type": "plain"
+					},
+					"yt$duration": {
+						"seconds": "27"
+					},
+					"media$content": [
+						{
+							"medium": "video",
+							"url": "https://www.youtube.com/v/vJipeSUsuHM?version=3&f=user_uploads&app=youtube_gdata",
+							"type": "application/x-shockwave-flash",
+							"yt$format": 5,
+							"duration": 27,
+							"expression": "full",
+							"isDefault": "true"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v2.cache4.c.youtube.com/CigLENy73wIaHwlzuCwleamYvBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 1,
+							"duration": 27,
+							"expression": "full"
+						}, {
+							"medium": "video",
+							"url": "rtsp://v2.cache4.c.youtube.com/CigLENy73wIaHwlzuCwleamYvBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp",
+							"type": "video/3gpp",
+							"yt$format": 6,
+							"duration": 27,
+							"expression": "full"
+						}
+					],
+					"media$thumbnail": [
+						{
+							"url": "https://i.ytimg.com/vi/vJipeSUsuHM/0.jpg",
+							"width": 480,
+							"time": "00:00:13.500",
+							"height": 360
+						}, {
+							"url": "https://i.ytimg.com/vi/vJipeSUsuHM/1.jpg",
+							"width": 120,
+							"time": "00:00:06.750",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/vJipeSUsuHM/2.jpg",
+							"width": 120,
+							"time": "00:00:13.500",
+							"height": 90
+						}, {
+							"url": "https://i.ytimg.com/vi/vJipeSUsuHM/3.jpg",
+							"width": 120,
+							"time": "00:00:20.250",
+							"height": 90
+						}
+					],
+					"media$keywords": {},
+					"media$description": {
+						"$t": "",
+						"type": "plain"
+					}
+				},
+				"author": [
+					{
+						"name": {
+							"$t": "Evelina Gaina"
+						},
+						"uri": {
+							"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+						}
+					}
+				],
+				"yt$statistics": {
+					"viewCount": "118",
+					"favoriteCount": "0"
+				},
+				"content": {
+					"$t": "",
+					"type": "text"
+				},
+				"link": [
+					{
+						"href": "https://www.youtube.com/watch?v=vJipeSUsuHM&feature=youtube_gdata",
+						"type": "text/html",
+						"rel": "alternate"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/vJipeSUsuHM/responses",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.responses"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/videos/vJipeSUsuHM/related",
+						"type": "application/atom+xml",
+						"rel": "http://gdata.youtube.com/schemas/2007#video.related"
+					}, {
+						"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/vJipeSUsuHM",
+						"type": "application/atom+xml",
+						"rel": "self"
+					}
+				],
+				"published": {
+					"$t": "2008-12-18T08:14:08.000Z"
+				},
+				"id": {
+					"$t": "http://gdata.youtube.com/feeds/api/videos/vJipeSUsuHM"
+				}
+			}
+		],
+		"generator": {
+			"$t": "YouTube data API",
+			"version": "2.1",
+			"uri": "http://gdata.youtube.com"
+		},
+		"title": {
+			"$t": "Uploads by Evelina Gaina",
+			"type": "text"
+		},
+		"author": [
+			{
+				"name": {
+					"$t": "Evelina Gaina"
+				},
+				"uri": {
+					"$t": "https://gdata.youtube.com/feeds/api/users/meevelina"
+				}
+			}
+		],
+		"xmlns$yt": "http://gdata.youtube.com/schemas/2007",
+		"id": {
+			"$t": "http://gdata.youtube.com/feeds/api/users/meevelina/uploads"
+		},
+		"xmlns$app": "http://purl.org/atom/app#",
+		"xmlns$gd": "http://schemas.google.com/g/2005",
+		"link": [
+			{
+				"href": "https://gdata.youtube.com/feeds/api/users/meevelina",
+				"type": "application/atom+xml",
+				"rel": "related"
+			}, {
+				"href": "https://www.youtube.com/channel/UCkEE53ubT7Al2krbLLdcgsw/videos",
+				"type": "text/html",
+				"rel": "alternate"
+			}, {
+				"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads",
+				"type": "application/atom+xml",
+				"rel": "http://schemas.google.com/g/2005#feed"
+			}, {
+				"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads/batch",
+				"type": "application/atom+xml",
+				"rel": "http://schemas.google.com/g/2005#batch"
+			}, {
+				"href": "https://gdata.youtube.com/feeds/api/users/meevelina/uploads?alt=json&start-index=1&max-results=50",
+				"type": "application/atom+xml",
+				"rel": "self"
+			}
+		],
+		"xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+		"openSearch$itemsPerPage": {
+			"$t": 50
+		},
+		"logo": {
+			"$t": "http://www.youtube.com/img/pic_youtubelogo_123x63.gif"
+		},
+		"openSearch$totalResults": {
+			"$t": 22
+		},
+		"xmlns$media": "http://search.yahoo.com/mrss/"
+	},
+	"version": "1.0",
+	"encoding": "UTF-8"
+}
